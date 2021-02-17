@@ -15,6 +15,3 @@ def exec(String):
             NewString += i.upper()
 
     print(NewString[::-1])
-
-String = "Hello World!"
-exec(String)
